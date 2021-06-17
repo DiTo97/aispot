@@ -12,7 +12,7 @@ With this, we anticipate creating a five-pronged cross-over between:
 
 1. Students
 2. Industry
-3. Subject matter rxperts
+3. Subject matter experts
 4. Specialist groups
 5. Academicians
 
