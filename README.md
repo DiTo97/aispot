@@ -1,6 +1,8 @@
 # AI Spot
 
-**The first community of tech enthusiasts at UniGe**
+**The first community of tech enthusiasts at UniGe (from Fall 2021)**
+
+![AI Spot logo](./images/AI-Spot.jpg)
 
 AI Spot is an upcoming initiative at UniGe for the students, by the students, established with community-driven objectives that aim to foster innovation, and cultivate a technical society to share, create, and engage the like-minded and passionate.
 
@@ -21,31 +23,14 @@ Open to any motivated student, with the aim of learning state-of-the-art technol
 - **Dissemination**  
 Open to everyone, with the aim of popularizing hot topics and important news about technologies and artificial intelligence.
 
-Here is the list of some possibile events starting from Fall 2021:
+Here is the list of some of the possibile events:
 
-- **Workshops**
-  - Reinforcement learning w/ JAX
-  - Analytics w/ Tableau
-  - Mobile-centered ML w/ TFLite on Flutter
-  - ...
-
-- **Film screenings**
-  - Coded Bias (2020)
-  - AlphaGo (2017)
-  - Iperconnessi (2018)
-  - ...
-
-- **Competitions**
-  - TEDx talks battles
-  - Local hackathons
-  - Kaggle challenges
-  - Debates
-  - ...
-
-- **Interactive media**
-  - Keynote sessions
-  - Tech podcasts
-  - Virtual meetups
-  - Industry fairs
+|**Workshops**|**Film screenings**|**Competitions**|**Interactive media**|
+|---|---|---|---|
+|Reinforcement learning w/ JAX|Coded Bias (2020)|TEDx talks battles|Keynote sessions|
+|Analytics w/ Tableau|AlphaGo (2017)|Local hackathons|Tech podcasts|
+|Mobile-centered ML w/ TFLite on Flutter|Iperconnessi (2018)|Kaggle challenges|Virtual meetups|
+|||Open debates|Industry fairs|
+|...|...|...|...|
 
 Contact the AI Spot team at [unige.ai@gmail.com](mailto:unige.ai@gmail.com)
