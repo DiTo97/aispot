@@ -18,7 +18,7 @@ With this, we anticipate creating a five-pronged cross-over between:
 
 Our tentative agenda includes two different tracks:
 - **Technical activities**  
-Open to any motivated student (with the possibilty to discount AUK credits), with the aim of learning state-of-the-art technologies for the next generation of intelligent machines;
+Open to any motivated student enrolled at UniGe (with the possibility of deducting AUK credits), with the aim of learning state-of-the-art technologies for the next generation of intelligent machines;
 
 - **Dissemination**  
 Open to everyone, with the aim of popularizing hot topics and important news about technologies and AI.
