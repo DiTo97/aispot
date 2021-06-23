@@ -8,7 +8,7 @@ AI Spot is an upcoming initiative at UniGe for the students, by the students, es
 
 Our prime objective is to create a network of independent thinkers to help nurture and encourage ground-level discussions to assist our community in being informed technologically and updated with state-of-the-art advancements, with a special emphasis around artificial intelligence. We plan to establish interesting and new ways to empower, explore, and develop a knowledge-first network.
 
-With this, we anticipate creating a five-pronged cross-over between:
+In the coming months we anticipate creating a five-pronged cross-over between:
 
 1. Students
 2. Industry
